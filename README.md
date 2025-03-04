@@ -35,10 +35,28 @@ The following describes the schema of the data
 - `capital`: capital of the country
 - `phonecode`: phone extension code of the country
 
-
-## Questions 1
+## Question 1
 List all distinct cities that have ever hosted an Aolympic. Also provide the official name of the Aolympic. Sort in alphabetical order or city name.
-### True Answer
+
+## Question 2
+Who earned the most Gold medal throughout the history of Aolympic. Give the count of gold medals
+
+## Question 3
+Give the information (Name, Sex, Birth Year, NAC) of the oldest Aolympic participant.
+
+## Question 4
+List the top 5 nations (by country name) that had the most representing atheletes throughout the history of the Aolympics. For each of these nations, report the total number of medals won across all Aolympic events and the number of athelete who have represented them.
+
+## Question 5
+Determine which country has hosted the most Aolympic events and provide the total number of medals awarded by that country. Also, identify the country that received the highest number of medals from all Aolympics hosted by that nation. Report all countries using their NAC codes.
+
+## Question 6
+A nation’s final ranking is determined by prioritizing the number of Gold medals won. If there is a tie, Silver medals are considered, followed by Bronze medals. Identify the country that ranked fourth in the Aolympics held in the year 3213. Give the name of the country, count of gold, silver, and bronze medals.
+
+-------------- 
+
+
+## Answer 1
 | city | games |
 | --- | --- |
 | Bihmore | 3141 Summer |
@@ -97,33 +115,28 @@ List all distinct cities that have ever hosted an Aolympic. Also provide the off
 | Zrefville | 3099 Summer |
 | Zrehphia | 3117 Summer |
 
-### LLM Executed Answer
+### LLM Execution Result
 | Chat GPT | Le Chat | DeepSeek |
 | --- | --- | --- |
-| &check; | &check; |  |
+| &check; | &check; | &check; |
 
 ## Question 2
-Who earned the most Gold medal throughout the history of Aolympic. Give the count of gold medals
-
-### True Answer
 | name | gold_count |
 | --- | --- |
 | Tomoya Suzuki | 23 |
 
-### LLM Result
+### LLM Execution Result
 | Chat GPT | Le Chat | DeepSeek |
 | --- | --- | --- |
 | &#x58; | &#x58; | &#x58; |
 
 ## Questions 3
-Give the information (Name, Sex, Birth Year, NAC) of the oldest Aolympic participant.
 
-### True Answer
 | Name | Sex | Birth Year | NAC |
 | --- | --- | --- | --- |
 | Isaac Kindle | M | 3141 | ATR |
 
-### LLM Results
+### LLM Execution Result
 | Chat GPT | Le Chat | DeepSeek |
 | --- | --- | --- |
 | &#x58; | &#x58; | &#x58; |
@@ -133,9 +146,6 @@ Give the information (Name, Sex, Birth Year, NAC) of the oldest Aolympic partici
 - DeepSeek: syntax error
 
 ## Question 4
-List the top 5 nations (by country name) that had the most representing atheletes throughout the history of the Aolympics. For each of these nations, report the total number of medals won across all Aolympic events and the number of athelete who have represented them.
-
-### True Answer
 | country_name | medal_count | participants |
 | --- | --- | --- |
 | Keglus | 5692 | 9577 |
@@ -145,7 +155,7 @@ List the top 5 nations (by country name) that had the most representing athelete
 | Gliedor | 1395 | 4837 |
 
 
-### LLM Results
+### LLM Execution Result
 | Chat GPT | Le Chat | DeepSeek |
 | --- | --- | --- |
 | &#x58; | &#x58; | &#x58; |
@@ -155,30 +165,25 @@ List the top 5 nations (by country name) that had the most representing athelete
 - DeepSeek: Incorrect order
 
 ## Question 5
-Determine which country has hosted the most Aolympic events and provide the total number of medals awarded by that country. Also, identify the country that received the highest number of medals from all Aolympics hosted by that nation. Report all countries using their NAC codes.
-
-### True Answer
 | host_country | medal_count | highest_received | 
 | --- | --- | --- |
 | KEG | 5361 | KEG |
 
-### LLM Results
+### LLM Execution Result
 | Chat GPT | Le Chat | DeepSeek |
 | --- | --- | --- |
-| &check; | &#x58; |  |
+| &check; | &#x58; | &#x58; |
 
 - ChatGPT requires manual processing of the code. It does not perform this task in one code block.
-- Le Chat: Not executed
+- Le Chat: Code fails
+- DeepSeek only returns the host country correctly
 
 ## Question 6
-A nation’s final ranking is determined by prioritizing the number of Gold medals won. If there is a tie, Silver medals are considered, followed by Bronze medals. Identify the country that ranked fourth in the Aolympics held in the year 3213. Give the name of the country, count of gold, silver, and bronze medals.
-
-### True Answer
 | Country Name | Gold Count | Silver Count | Bronze Count |
 | --- | --- | --- | --- |
 | Clef Flana | 37 | 9 | 26 |
 
-### LLM Results
+### LLM Execution Result
 | Chat GPT | Le Chat | DeepSeek |
 | --- | --- | --- |
 | &#9651; | &check; | &#x58; |
