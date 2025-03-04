@@ -1,5 +1,5 @@
 # Writing and Executing SQL Queries
-In this task, you will use n SQL database management system of your choice (e.g., MySQL, PostgreSQL) to construct and execute queries that answer the given questions.
+In this task, you will use a SQL database management system of your choice (e.g., MySQL, PostgreSQL) to construct and execute queries that answer the given questions.
 
 ## Data Description
 In this task, we will imagine an alternate universe that hosts a global sporting event called Aolympics, held every three years. Aolympics features the same sports as the Olympics; however, all details—including athlete names, event years, host cities, and countries—are entirely fictional. There are four datasets provided to you: `athlete_event`, `nac_regions`, `cities`, `countries`
@@ -8,7 +8,7 @@ In this task, we will imagine an alternate universe that hosts a global sporting
 The following describes the schema of the data
 - `name`: name of the participating athelete
 - `sex`: biological sex
-- `age`: age of the participating athelete at the year they have participated
+- `age`: age of the participating athelete at the year they are participating
 - `team`: country name of which the participating athelete is representing
 - `NAC`: the NAC code of which the athelete is representing
 - `games`: official name of the Aolympic
@@ -36,21 +36,24 @@ The following describes the schema of the data
 - `phonecode`: phone extension code of the country
 
 ## Question 1
-List all distinct cities that have ever hosted an Aolympic. Also provide the official name of the Aolympic. Sort in alphabetical order or city name.
+List all distinct cities that have ever hosted an Aolympic. Also provide the official name of the Aolympic. Sort in alphabetical order of city name.
 
 ## Question 2
-Who earned the most Gold medal throughout the history of Aolympic. Give the count of gold medals
+How many unique NACs have participated in the history of Aolympics.
 
 ## Question 3
-Give the information (Name, Sex, Birth Year, NAC) of the oldest Aolympic participant.
+Who earned the most Gold medal throughout the history of Aolympic. Give the count of gold medals
 
 ## Question 4
-List the top 5 nations (by country name) that had the most representing atheletes throughout the history of the Aolympics. For each of these nations, report the total number of medals won across all Aolympic events and the number of athelete who have represented them.
+Give the information (Name, Sex, Birth Year, NAC) of the oldest Aolympic participant.
 
 ## Question 5
-Determine which country has hosted the most Aolympic events and provide the total number of medals awarded by that country. Also, identify the country that received the highest number of medals from all Aolympics hosted by that nation. Report all countries using their NAC codes.
+List the top 5 nations (by country name) that had the most representing atheletes throughout the history of the Aolympics. For each of these nations, report the total number of medals won across all Aolympic events and the number of athelete who have represented them.
 
 ## Question 6
+Determine which country has hosted the most Aolympic events and provide the total number of medals awarded by that country. Also, identify the country that received the highest number of medals from all Aolympics hosted by that nation. Report all countries using their NAC codes.
+
+## Question 7
 A nation’s final ranking is determined by prioritizing the number of Gold medals won. If there is a tie, Silver medals are considered, followed by Bronze medals. Identify the country that ranked fourth in the Aolympics held in the year 3213. Give the name of the country, count of gold, silver, and bronze medals.
 
 -------------- 
@@ -120,7 +123,18 @@ A nation’s final ranking is determined by prioritizing the number of Gold meda
 | --- | --- | --- |
 | &check; | &check; | &check; |
 
-## Question 2
+## Answer 2
+| count |
+| --- |
+| 229 |
+
+### LLM Execution Result
+| Chat GPT | Le Chat | DeepSeek |
+| --- | --- | --- |
+| &check; | &check; | &check; |
+
+
+## Answer 3
 | name | gold_count |
 | --- | --- |
 | Tomoya Suzuki | 23 |
@@ -130,7 +144,9 @@ A nation’s final ranking is determined by prioritizing the number of Gold meda
 | --- | --- | --- |
 | &#x58; | &#x58; | &#x58; |
 
-## Questions 3
+- All three of them uses 'name' as unique identifer instead of 'id'
+
+## Answer 4
 
 | Name | Sex | Birth Year | NAC |
 | --- | --- | --- | --- |
@@ -145,7 +161,7 @@ A nation’s final ranking is determined by prioritizing the number of Gold meda
 - Le Chat uses a line of code that uses the 'actual' current date
 - DeepSeek: syntax error
 
-## Question 4
+## Answer 5
 | country_name | medal_count | participants |
 | --- | --- | --- |
 | Keglus | 5692 | 9577 |
@@ -164,7 +180,7 @@ A nation’s final ranking is determined by prioritizing the number of Gold meda
 - Le Chat: Correct country info, incorrect medal_count, participants
 - DeepSeek: Incorrect order
 
-## Question 5
+## Answer 6
 | host_country | medal_count | highest_received | 
 | --- | --- | --- |
 | KEG | 5361 | KEG |
@@ -178,7 +194,7 @@ A nation’s final ranking is determined by prioritizing the number of Gold meda
 - Le Chat: Code fails
 - DeepSeek only returns the host country correctly
 
-## Question 6
+## Answer 7
 | Country Name | Gold Count | Silver Count | Bronze Count |
 | --- | --- | --- | --- |
 | Clef Flana | 37 | 9 | 26 |
