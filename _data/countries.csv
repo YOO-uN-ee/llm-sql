@@ -1,0 +1,269 @@
+id,name,iso3,capital,phonecode
+1,Abristan,ABR,Otofland,484
+2,Acral,ACR,Kloxsa,981
+3,Adrait,ADR,Ozhucdiff,505
+4,Aflaria,AFL,Cheemsall,640
+5,Aglia,AGL,Vrieset,818
+6,Agrington,AGR,Ubrehdence,281
+7,Aprana,APR,Vaadta,745
+8,Ascos,ASC,Jaeby,368
+9,Ashiunia,ASH,Akimlas,63
+10,Asmela,ASM,Eclando,788
+11,Aspil,ASP,Zleahbury,74
+12,Aspington,ASI,Osrunbert,217
+13,Aspistan,ASS,Zharridge,397
+14,Aspuaso,ASU,Eyocsas,994
+15,Athon,ATH,Cuobert,39
+16,Atral,ATR,Ehona,925
+17,Bagrales,BAG,Wuusver,122
+18,Blabar,BLA,Icaisridge,980
+19,Blayv Plines,BLY,Sruuhford,272
+20,Bloadal,BLO,Itofvine,9
+21,Bloalia,BLL,Kluiysa,399
+22,Bloav Skeau,BLV,Phaanland,810
+23,Bloi Skary,BLI,Chiegas,343
+24,Blouce,BLU,Oflelmond,736
+25,Bloys Shus,BLS,Vruocport,84
+26,Bluyn Skal,BLN,Idisea,101
+27,Bluyria,BLR,Khiemburgh,75
+28,Brein Shington,BRE,Acupvale,73
+29,Briow Swa,BRI,Brailling,127
+30,Buglieland,BUG,Aframver,446
+31,Ceshatho,CES,Zluoltin,504
+32,Chaej Chana,CHA,Gaxta,198
+33,Chayjan,CHY,Keersea,139
+34,Cheip Grijan,CHE,Zreamburg,342
+35,Cheoz Blium,CHO,Slodhull,911
+36,Choa Prar,CHP,Zruorgend,263
+37,Clef Flana,CLE,Sruoxphis,441
+38,Cloesau,CLO,Okance,496
+39,Cluis Skia,CLU,Praurbridge,137
+40,Cluoton,CLT,Yruehsas,183
+41,Codria,COD,Culand,630
+42,Cowhoinia,COW,Ylespolis,224
+43,Crailor,CRA,Sreangend,53
+44,Crien Drary,CRI,Asliport,184
+45,Criyce,CRY,Stecsas,435
+46,Croer Snington,CRO,Klueyburgh,702
+47,Cuscos,CUS,Jaudville,998
+48,Draostein,DRA,Ekluhgend,906
+49,Dray Swaria,DRY,Opetver,684
+50,Driyp Whines,DRI,Avuxgas,352
+51,Droil Chor,DRO,Estriton,418
+52,Druele,DRU,Iziamby,587
+53,Duswuelor,DUS,Omaka,672
+54,Ebral,EBR,Eyaudcaster,490
+55,Echaria,ECH,Loucding,866
+56,Echela,ECE,Esharson,583
+57,Eclesh,ECL,Troxrora,455
+58,Eclon,ECO,Ushefmont,691
+59,Edren,EDR,Yloihset,147
+60,Edroeze,EDO,Shuestol,945
+61,Eflus,EFL,Sheafset,422
+62,Efrouca,EFR,Eshuucton,31
+63,Egleugua,EGL,Trunross,643
+64,Egria,EGR,Busbury,312
+65,Eplor,EPL,Blaesbus,8
+66,Eshana,ESH,Heupolis,248
+67,Esharia,ESA,Predfield,651
+68,Eshasal,ESS,Yliedchester,173
+69,Eshyae,ESY,Blearsa,844
+70,Eskesh,ESK,Qaimset,578
+71,Esnar,ESN,Fruutson,358
+72,Esnen,ESE,Dobert,656
+73,Espos,ESP,Obuby,79
+74,Estyae,EST,Aklalo,917
+75,Ethad,ETH,Onthull,15
+76,Etril,ETR,Fuelport,658
+77,Fechiudal,FEC,Iruiburgh,937
+78,Feglen,FEG,Awreegend,438
+79,Flayw Shye,FLA,Iliphis,707
+80,Fleij Spua,FLE,Blufginia,577
+81,Fliarhiel,FLI,Dracset,580
+82,Fluze,FLU,Ukueron,880
+83,Foplor,FOP,Braanfast,685
+84,Fraji,FRA,Klaicpus,867
+85,Fralor,FRL,Steepland,740
+86,Freac Clesh,FRE,Yektin,395
+87,Freudan,FRU,Phatdence,875
+88,Froaw Plistan,FRO,Ichafstin,832
+89,Froyc Plar,FRY,Friemledo,856
+90,Frueles,FRS,Ixuburgh,394
+91,Frusia,FRI,Wuomby,565
+92,Fufril,FUF,Xiemrith,436
+93,Gacheyssau,GAC,Beekchester,727
+94,Gashein,GAS,Fluilstead,706
+95,Gaswessau,GAW,Hekphia,214
+96,Gebriarus,GEB,Acrepolis,414
+97,Glao Ston,GLA,Igecmery,499
+98,Glia Crain,GLI,Zhammore,259
+99,Gliay Praria,GLY,Owroutdiff,607
+100,Gliedor,GLE,Wrinard,908
+101,Gostauso,GOS,Ekouhross,279
+102,Grie Frua,GRI,Kluorset,910
+103,Groador,GRO,Akhiburgh,520
+104,Groerus,GRE,Ipuonard,857
+105,Gruocor,GRU,Chompolis,811
+106,Gudreiland,GUD,Kuimery,106
+107,Hafrington,HAF,Uyloxhull,828
+108,Hasciarus,HAS,Zhidwood,838
+109,Hastrautan,HAT,Kraedburg,334
+110,Hotroland,HOT,Istroubus,389
+111,Hubliaton,HUB,Peagend,776
+112,Huscus,HUS,Eloihmery,692
+113,Hushuiji,HUH,Vruaddiff,663
+114,Iadreales,IAD,Aklacgend,714
+115,Iathye,IAT,Igliashull,690
+116,Iostrington,IOS,Wuatmore,456
+117,Iufrington,IUF,Oduafield,632
+118,Jablawana,JAB,Wruarphis,377
+119,Joskaria,JOS,Shaafridge,459
+120,Josnen,JON,Awroinsa,582
+121,Keglus,KEG,Semridge,638
+122,Kegroubia,KER,Ecripfield,508
+123,Kosmiuburg,KOS,Urghmouth,470
+124,Lastuesia,LAS,Edridvine,805
+125,Ledreau,LED,Tuapsas,393
+126,Losmil,LOS,Fomfast,730
+127,Losnana,LON,Wrisnard,286
+128,Mashoysil,MAS,Oplargend,54
+129,Mespana,MES,Oblourough,951
+130,Mosheau,MOS,Seamby,524
+131,Nudreyze,NUD,Prienland,59
+132,Oblus,OBL,Flester,349
+133,Obrea,OBR,Zehbus,539
+134,Ochax,OCH,Yhiapgan,204
+135,Ocrax,OCR,Ivlaudpus,930
+136,Ocrurg,OCU,Ishedron,754
+137,Oflana,OFL,Khanson,492
+138,Ofrua,OFR,Izhelrora,808
+139,Oglium,OGL,Uchorith,148
+140,Ograd,OGR,Braedford,560
+141,Osha,OSH,Gleapgan,67
+142,Oshana,OSA,Oyluaridge,812
+143,Oshurg,OSU,Efiegan,660
+144,Oshya,OSY,Iyrulas,941
+145,Oskaria,OSK,Upaafgate,102
+146,Oswurg,OSW,Wruefrough,987
+147,Othium,OTH,Tuuysall,326
+148,Paclijan,PAC,Wehshire,892
+149,Pashines,PAS,Nuirlas,297
+150,Pegloland,PEG,Ozusstead,898
+151,Plaog Plela,PLA,Kerpolis,723
+152,Plaora,PLO,Ekilgow,683
+153,Plecor,PLE,Deulsall,243
+154,Pleina,PLI,Ikhemcaster,10
+155,Pluibar,PLU,Runvale,523
+156,Poswa,POS,Gruarvale,458
+157,Proef Whua,PRO,Ushokfast,621
+158,Proym Stron,PRY,Wruakrith,270
+159,Pruodan,PRU,Wuprith,817
+160,Qaclua,QAC,Pisrora,628
+161,Reshela,RES,Vreahmore,611
+162,Rowhestan,ROW,Gruarsa,711
+163,Saglar,SAG,Esruansa,112
+164,Scaeze,SCA,Egriburn,135
+165,Scagro,SCG,Jaufast,19
+166,Scaop Strait,SCO,Uzhufnard,620
+167,Scau Scela,SCU,Yloffield,21
+168,Scei Strar,SCE,Wuapsa,234
+169,Sceygro,SCY,Brecsey,401
+170,Sciow Grela,SCI,Yhoufham,650
+171,Scuydor,SCD,Cruxmouth,488
+172,Sefristan,SEF,Yifstead,350
+173,Segliucor,SEG,Zraaypolis,249
+174,Seglye,SEL,Ezarith,962
+175,Shaoyae,SHA,Druaymore,155
+176,Shionia,SHI,Usraewood,920
+177,Shiov Strijan,SHO,Qaelbury,822
+178,Shoyd Frana,SHY,Streefstin,424
+179,Shoyy Swax,SHS,Giebus,174
+180,Shua Whon,SHU,Suaccester,799
+181,Skao Cha,SKA,Chesnard,335
+182,Skeinia,SKE,Staenmont,168
+183,Skeov Sheau,SKO,Truikport,142
+184,Skiunia,SKI,Yudbert,42
+185,Skuag Shesh,SKU,Beuddence,219
+186,Skuov Swurg,SKV,Khuupsas,712
+187,Smaele,SMA,Gleutling,314
+188,Smautan,SMU,Eahridge,44
+189,Smoydal,SMO,Leutpolis,247
+190,Snaod Grela,SNA,Eqaunbus,300
+191,Sniustein,SNI,Zoydiff,71
+192,Sogloissau,SOG,Sliflas,495
+193,Spionga,SPI,Afuburg,40
+194,Spuiwana,SPU,Ikrale,939
+195,Sta Bristan,STA,Sruolbridge,130
+196,Staod Clington,STO,Teanton,934
+197,Staynga,STY,Pruerith,203
+198,Stiar Thua,STI,Xumdence,191
+199,Straenga,STR,Claaftin,110
+200,Streistein,STE,Vaulland,78
+201,Streyton,STT,Iraemery,916
+202,Striyrus,STU,Claadcaster,995
+203,Struiz Whea,STZ,Usouhby,566
+204,Struy Grax,STG,Srourough,518
+205,Swam Swistan,SWA,Cluamsas,290
+206,Swioc Flela,SWI,Uyucver,819
+207,Swiop Thana,SWO,Prutham,330
+208,Swiusal,SWU,Chuolstin,45
+209,Swoas Whana,SWS,Craaksea,344
+210,Tasciaque,TAS,Stopstead,603
+211,Taswula,TAW,Ipleim,637
+212,Tescouce,TES,Quisey,83
+213,Thae Flain,THA,Ubuaville,738
+214,Thebar,THE,Glaptin,160
+215,Thoigro,THO,Ekrouver,649
+216,Totrora,TOT,Oblimdence,11
+217,Traeyae,TRA,Itredbert,444
+218,Trioca,TRI,Uglicville,251
+219,Tuclye,TUC,Tausville,868
+220,Tucrein,TUR,Kloutver,29
+221,Tustia,TUS,Ruixmond,392
+222,Uclua,UCL,Zhetbus,836
+223,Udrait,UDR,Cluoham,365
+224,Ufreau,UFR,Rauxsas,390
+225,Ufrijan,UFI,Ukroyvine,731
+226,Ufriule,UFU,Guepshire,779
+227,Uglecor,UGL,Karshire,841
+228,Ugren,UGR,Graiyphia,555
+229,Ugror,UGO,Zhuudburn,357
+230,Uplos,UPL,Zrouschester,413
+231,Uplyae,UPY,Chacsea,111
+232,Uprait,UPR,Jaydiff,58
+233,Ushium,USH,Shusson,134
+234,Uskos,USK,Vehcester,210
+235,Usmait,USM,Vruyling,573
+236,Usna,USN,Kriexbus,893
+237,Usnaso,USA,Exul,158
+238,Uspal,USP,Iclicvine,454
+239,Uthua,UTH,Uclafstin,216
+240,Uwheau,UWH,Xihginia,382
+241,Uwhesh,UWE,Ogegate,873
+242,Vaclana,VAC,Gadvale,953
+243,Vadruotho,VAD,Kraikfield,773
+244,Vagleuce,VAG,Croxbridge,426
+245,Vashus,VAS,Shaifast,283
+246,Vocraibia,VOC,Kruxling,575
+247,Vupleossau,VUP,Khielbridge,262
+248,Vustein,VUS,Ifakton,192
+249,Whaissau,WHA,Gusross,384
+250,Whay Prela,WHY,Heaschester,337
+251,Whaysia,WHS,Baiphia,442
+252,Wheuw Snua,WHE,Wrucgas,888
+253,Wheyji,WHJ,Esilbury,70
+254,Whiar Prijan,WHI,Yomgan,370
+255,Whiol Stor,WHO,Vaifville,935
+256,Whonia,WHN,Zlaihgas,197
+257,Woproudan,WOP,Cuitgate,277
+258,Wostrana,WOS,Fipburgh,132
+259,Xaplain,XAP,Foissall,602
+260,Xedriuze,XED,Odrustin,709
+261,Xescana,XES,Cloipling,421
+262,Xeskuequa,XEK,Zridling,341
+263,Xushaoland,XUS,Vruamgas,749
+264,Xuskialand,XUK,Beatver,22
+265,Yudren,YUD,Avlueburg,735
+266,Zeclor,ZEC,Aceuville,228
+267,Zesceyrus,ZES,Uyritsea,252
+268,Zostea,ZOS,Usledon,348
